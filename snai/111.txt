@@ -1,0 +1,94 @@
+培训网址：https://netsuite.csod.com/client/netsuite/default.aspx
+登录名：vivi.zou@tctchina.com.cn
+登录密码：Welcome1234
+-------------------------------------------------
+
+check Record Types：
+SuiteCloud > SuiteScript1.0 > SuiteScript Reference > SuiteScript Supported Records
+
+
+---------------------------------------------------------
+销售流程：
+填制销售订单 -> 审核销售订单 -> 履行销售订单（这是一个过程订单状态：拣货、打包、付运） -> 开单（发票）->  （财务部分）
+采购流程：
+填制请购单 ->  审核请购订单 -> 根据请购单创建采购单 -> 审核采购单 -> 派单（跟单员） -> 采购入库单
+
+-----------------------------------------------------------------
+原厂提供我方应用
+Dilley
+账号：jack@dilley.com
+psd:Welcome123
+
+Hanicomn 
+账号：tianhao.shen@tctchina.com.cn
+psd:Welcome123
+
+
+
+账号管理SandBox
+
+德园：camcochina@163.com     Welcome123
+HN  ：tianhao.shen@tctchina.com.cn    Welcome123    
+
+
+
+正式环境
+
+德园：netsuitechina@163.com       Netsuite123
+能量方舟：vickey.xiao@ark.com     Welcome123
+
+
+
+
+培训网址：https://netsuite.csod.com/client/netsuite/default.aspx
+登录名：vivi.zou@tctchina.com.cn
+登录密码：Welcome1234
+
+
+//netsuite  的优时
+1.构建简单
+2.精准的匹配资源
+3.灵活
+//报价流程
+
+
+============日常平台账号管理===========
+微信公众平台
+username：qq@邮箱  
+password：shen109920hao
+
+
+百度云---平台
+username：13127931593@163.com
+password：shen109920hao
+
+
+图灵机器人：
+username：手机号
+password：shen109920hao
+
+
+草二维码
+username：手机号
+password：shen109920hao
+
+GitHUb 
+username:shen109920hao
+password:shen920109hao
+
+
+------------------------------------------------
+	TCT移动客户端开发需求文档的编制。此客户端是为了实现与NetSuite系统的对接而开发的一个微信公众号。
+是一个外包项目。在这个项目中我主要是作为一个TCT与外包商的一个对接人。我的工作职责是按照NetSuite原系统，
+编制希求文档（包括：系统架构、表字段的设置、页面间的跳转等）；组织对此客户端的测试工作，编制测试报告等。
+       Netsuite开发，按照用户对NetSuite的使用需求，编写NetSuite脚本，测试功能的实现。部署到正式环境实现交付。
+	完成领导交付的其他工作；
+======================================
+自定义网站ＨＴＭＬ帮助文档：Example for Building a Combination Site
+
+
+
+2017/05/19 20:00  IT讲堂
+http://yun.itheima.com/open/183.html?1705lckj
+
+
